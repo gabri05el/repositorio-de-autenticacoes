@@ -1,2 +1,4 @@
 # repositorio-de-autenticacoes
-Repositório de testes para autenticacões.
+Repositório de testes para autenticações.
+
+auteraçao numero 2
